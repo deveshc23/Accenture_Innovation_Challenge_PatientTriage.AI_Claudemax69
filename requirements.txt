@@ -1,0 +1,5 @@
+# Engine and tests run on the standard library alone.
+# These are needed only for the learning layer (learn.py) and the test suite.
+scikit-learn>=1.4
+numpy>=1.26
+pytest>=8.0
